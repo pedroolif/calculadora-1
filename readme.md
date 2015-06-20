@@ -3,3 +3,4 @@
 ## Lista de alunos que participaram
 
 - Allan Gonçalves da Cruz
+- Pedro Victor de Oliveira e Silva
